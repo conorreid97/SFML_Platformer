@@ -1,0 +1,33 @@
+﻿  Boss.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\boss.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Enemy.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\enemy.cpp(91): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Animation.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\animation.cpp(73): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  AudioManager.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\audiomanager.cpp(91): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Collision.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\collision.cpp(51): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GameState.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\gamestate.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Input.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\input.cpp(72): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MusicObject.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\musicobject.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GameObject.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\gameobject.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SoundObject.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\soundobject.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  TileMap.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\tilemap.cpp(59): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Vector.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\framework\vector.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Level.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\level.cpp(125): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Main.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\main.cpp(91): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Pickups.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\pickups.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Player.cpp
+\\stuhome\homedrive6$\1802776\assessment\coursework\cmp105app\player.cpp(194): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

@@ -1,0 +1,47 @@
+﻿  Coin.cpp
+  CoinManager.cpp
+  Credits.cpp
+  Enemy.cpp
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  GameOver.cpp
+  GameWin.cpp
+  Heart.cpp
+  Level.cpp
+F:\Uni_College\Portfolio\1stYear_GameAssessment_Final\GameAssessment_final\Coursework\CMP105App\Level.cpp(190,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\Uni_College\Portfolio\1stYear_GameAssessment_Final\GameAssessment_final\Coursework\CMP105App\Level.cpp(190,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Main.cpp
+  Menu.cpp
+  Compiling...
+  Pause.cpp
+  Player.cpp
+  Tutorial.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 615 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CMP105App.vcxproj -> F:\Uni_College\Portfolio\1stYear_GameAssessment_Final\GameAssessment_final\Coursework\x64\Release\CMP105App.exe
